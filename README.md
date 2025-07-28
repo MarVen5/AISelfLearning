@@ -86,5 +86,7 @@ jupyter notebook
 jupyter lab
 ```
 
+### Pycharm 适用于大规模项目
+
 
 
